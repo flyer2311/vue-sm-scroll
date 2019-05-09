@@ -7,6 +7,11 @@ this is a plugin used in VUE and based on better-scroll
 ![](https://img.shields.io/badge/px2rem-lastest-brightgreen.svg)
 ![](https://img.shields.io/badge/async-support-brightgreen.svg) 
 
+## Download
+~~~cmd
+npm install @flyer2311/vue-sm-scroll --save
+~~~
+
 ## Function
 1. support native scroll
 1. support pulldown and pullup
