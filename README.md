@@ -24,7 +24,7 @@ npm install @flyer2311/vue-sm-scroll --save
 1. better-scroll 
 
 ## Basic direct
-请看forexample的例子
+请看./example/example.vue的例子
 
 ## Inner construction
 ~~~javascript
